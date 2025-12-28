@@ -1,0 +1,11 @@
+C:\Users\lucas\source\repos\CALCULADORA POO\CALCULADORA POO\obj\Debug\CALCULADORA POO.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\CALCULADORA POO\CALCULADORA POO\obj\Debug\CALCULADORA_POO.Form1.resources
+C:\Users\lucas\source\repos\CALCULADORA POO\CALCULADORA POO\obj\Debug\CALCULADORA_POO.Properties.Resources.resources
+C:\Users\lucas\source\repos\CALCULADORA POO\CALCULADORA POO\obj\Debug\CALCULADORA POO.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\CALCULADORA POO\CALCULADORA POO\obj\Debug\CALCULADORA POO.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\CALCULADORA POO\CALCULADORA POO\bin\Debug\CALCULADORA POO.exe.config
+C:\Users\lucas\source\repos\CALCULADORA POO\CALCULADORA POO\bin\Debug\CALCULADORA POO.exe
+C:\Users\lucas\source\repos\CALCULADORA POO\CALCULADORA POO\bin\Debug\CALCULADORA POO.pdb
+C:\Users\lucas\source\repos\CALCULADORA POO\CALCULADORA POO\obj\Debug\CALCULADORA POO.exe
+C:\Users\lucas\source\repos\CALCULADORA POO\CALCULADORA POO\obj\Debug\CALCULADORA POO.pdb
+C:\Users\lucas\source\repos\CALCULADORA POO\CALCULADORA POO\obj\Debug\CALCULADORA_POO.Pagina_de_cadastro_do_cliente.resources
